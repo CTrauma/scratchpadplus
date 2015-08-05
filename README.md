@@ -7,7 +7,7 @@ See original website for docs http://www.desiquintans.com/scratchpad
 
 Leverages RaptorX's great scintilla wrapper for Auto Hot Key https://github.com/RaptorX/scintilla-wrapper
 
-The script expects Office Code Pro and DejaVu Sans to be avaialable.
+The script expects Office Code Pro and DejaVu Sans fonts to be avaialable.
 Get them here:
 
 https://github.com/nathco/Office-Code-Pro/releases
